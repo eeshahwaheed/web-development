@@ -1,0 +1,59 @@
+body{
+    background-color: pink;
+}
+
+#sub-body{
+    background-color: cornflowerblue;
+    border: 5px solid black;
+    border-radius: 15px;
+    margin: 10px 30px 30px;
+    height: 800px;
+}
+
+.container{
+    width: max-content;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
+
+h1{
+    text-align: center;
+}
+
+.box-1{
+    width: 150px;
+    height: 150px;
+    background-color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
